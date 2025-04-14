@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center" style="color:#a4c639;">Olá! Eu sou Victor Soffi</h1>
 
-<!--
-**Kuroshi7/Kuroshi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, com foco em back-end e aprendizado contínuo. <br>
+  Atualmente estudando <strong>Go</strong>, <strong>JavaScript</strong> e tecnologias modernas para desenvolvimento de sistemas robustos.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-soffi-web-dev/)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-252525?style=for-the-badge&logo=vercel&logoColor=#a4c639&labelColor=000000)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuroshi7&show_icons=true&theme=chartreuse-dark&border_radius=12&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroshi7&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🚀 Tecnologias que uso
+
+![Go](https://img.shields.io/badge/-Go-0d1117?style=for-the-badge&logo=go&logoColor=#00ADD8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00618C)
+
+### 📂 Projetos em destaque
+
+- 🔗 [API de Pagamentos com Go](https://github.com/Kuroshi7/go-db-backup) — arquitetura clean, concorrência e testes
+- 🔗 [Automatizador de Vídeos Panda](https://github.com/Kuroshi7/pyTranscribe) — automação robusta com uso de modelos de IA
+</div>
+
+---
+
+<p align="center" style="font-style:italic; color:#a4c639;">
+  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</p>
