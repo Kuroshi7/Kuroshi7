@@ -40,6 +40,7 @@
 ![Snake animation](https://github.com/Kuroshi7/Kuroshi7/blob/output/github-contribution-grid-snake.svg)
 
 
+
 <p align="center" style="font-style:italic; color:#a4c639;">
   “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </p>
