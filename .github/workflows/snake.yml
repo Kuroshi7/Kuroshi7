@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -15,19 +15,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Commit and push
-        uses: EndBug/add-and-commit@v9
+      - name: Deploy Snake to GitHub Pages (output branch)
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "generate contribution snake"
-          add: "dist/github-contribution-grid-snake.svg"
-
-      - name: Push to output branch
-        run: |
-          git fetch
-          git switch --orphan output
-          git reset
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "snake"
-          git push -f origin output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
