@@ -22,11 +22,13 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Commit and push
+      - name: Check out branch
         run: |
           git fetch origin
-          git checkout -B output  # Cria a branch output, ou faz checkout nela se já existir
+          git checkout -B output origin/output || git checkout --orphan output  # Verifica e faz o checkout da branch ou cria uma nova
+
+      - name: Commit and push
+        run: |
           git add dist/github-contribution-grid-snake.svg
           git commit -m "generate contribution snake"
           git push origin output  # Push para a branch output
-
