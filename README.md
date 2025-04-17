@@ -17,7 +17,7 @@
 
 ### ⚙️ Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuroshi7&show_icons=true&theme=chartreuse-dark&border_radius=12&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuroshi7&show_icons=true&theme=merko&border_radius=12&hide_border=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuroshi7&layout=donut&theme=chartreuse-dark&hide_border=true&border_radius=12&hide=css,html&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
