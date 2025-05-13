@@ -35,7 +35,7 @@
 
 ### 📂 Projetos em destaque
 
-- 🔗 [API de Pagamentos com Go](https://github.com/Kuroshi7/go-db-backup) — arquitetura clean, concorrência e testes
+- 🔗 [Backup de banco de dados com Go](https://github.com/Kuroshi7/go-db-backup) — arquitetura clean, concorrência e testes
 - 🔗 [Automatizador de Vídeos Panda](https://github.com/Kuroshi7/pyTranscribe) — automação robusta com uso de modelos de IA
 </div>
 
